@@ -1,7 +1,7 @@
 /* Remove these lines if not using Tailwind CSS processor */
-/* @tailwind base; */
-/* @tailwind components; */
-/* @tailwind utilities; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* Beautiful Chat App Design System - Modern gradients and animations */
 
